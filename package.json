@@ -1,0 +1,31 @@
+{
+  "name": "data-visualization-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakther/data-visualization-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakther/data-visualization-back-end/issues"
+  },
+  "homepage": "https://github.com/kakther/data-visualization-back-end#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+
+  "engines": {
+    "node": "v12.2.0",
+    "npm": "6.13.4"
+  }
+
+}
